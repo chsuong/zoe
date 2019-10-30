@@ -4,7 +4,7 @@ import time
 import traceback
 
 import requests
-from ccg_nlpy import local_pipeline
+#from ccg_nlpy import local_pipeline
 from flask import Flask
 from flask import request
 from flask import send_from_directory

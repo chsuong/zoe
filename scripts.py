@@ -3,7 +3,7 @@ import pickle
 import sqlite3
 import sys
 
-from ccg_nlpy import local_pipeline
+#from ccg_nlpy import local_pipeline
 
 from cache import SurfaceCache
 from main import ZoeRunner
